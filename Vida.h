@@ -2,7 +2,7 @@
 #define __VIDA__
 
 #include <stdlib.h> 
-#include <allegro5\allegro5.h> // Inclui a biblioteca Allegro 5 para manipulação de gráficos
+#include <allegro5/allegro5.h> // Inclui a biblioteca Allegro 5 para manipulação de gráficos
 #include <allegro5/allegro_image.h> // Inclui a biblioteca Allegro 5 para manipulação de imagens
 
 // Define a estrutura 'hp' que representa um objeto com coordenadas x, y e dois valores numéricos

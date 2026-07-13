@@ -1,7 +1,6 @@
 
-
 # Nome do executável
-TARGET = main.exe
+TARGET = main
 
 # Fontes
 SRC = main.c Telas.c Player.c Joystick.c Square.c Pers.c Vida.c
