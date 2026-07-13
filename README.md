@@ -47,7 +47,7 @@ make
 ```
 
 ## Status do projeto
-Projeto acadêmico funcional, desenvolvido como exercício de C e programação orientada a estruturas. Não é um jogo em produção — próximos passos possíveis incluem portar o build para Linux/macOS e adicionar sistema de golpes especiais.
+Projeto acadêmico funcional, desenvolvido como exercício de C e programação orientada a estruturas. Não é um jogo em produção — próximos passos possíveis adicionar sistema de golpes especiais.
 
 ## Autor
 Iago Bariuka — [github.com/iagoBc](https://github.com/iagoBc)
