@@ -25,15 +25,22 @@ Um clone simplificado do Street Fighter, desenvolvido em C utilizando a bibliote
 - Biblioteca Allegro5 (`allegro`, `allegro_font`, `allegro_ttf`, `allegro_image`, `allegro_primitives`)
 
 ### Instalação do Allegro5
+[Allegro5](https://github.com/liballeg/allegro_wiki/wiki/Quickstart)
 **Ubuntu/Debian:**
 ```bash
-sudo apt install liballegro5-dev liballegro-image5-dev liballegro-font5-dev liballegro-ttf5-dev liballegro-primitives5-dev
+First, add the Allegro PPA. This gives you up-to-date versions of Allegro; the base repos only provide 5.2.3 at the time of writing.
+
+sudo add-apt-repository ppa:allegro/5.2
+
+Then, install Allegro:
+
+sudo apt-get install liballegro*5.2 liballegro*5-dev
 ```
 
 ## Compilação e execução
 ```bash
 make
-./main.exe   # ou ./main, dependendo do ajuste do Makefile
+./main   # ou ./main.exe, dependendo do ajuste do SO
 ```
 
 ## Status do projeto
