@@ -2,7 +2,7 @@
 
 Um clone simplificado do Street Fighter, desenvolvido em C utilizando a biblioteca gráfica [Allegro5](https://liballeg.org/). Projeto acadêmico com foco em lógica de jogo, manipulação de sprites, detecção de colisão e máquina de estados (menu → seleção de personagem → luta).
 
-![Gameplay](imagens/screenshot.png)
+![Gameplay](imagens/menu.png)
 <!-- adicione um screenshot ou GIF real aqui -->
 
 ## Funcionalidades
