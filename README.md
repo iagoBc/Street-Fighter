@@ -27,12 +27,17 @@ Um clone simplificado do Street Fighter, desenvolvido em C utilizando a bibliote
 ### Instalação do Allegro5
 [Allegro5](https://github.com/liballeg/allegro_wiki/wiki/Quickstart)
 **Ubuntu/Debian:**
+First, add the Allegro PPA. This gives you up-to-date versions of Allegro; the base repos only provide 5.2.3 at the time of writing.
+
 ```bash
 
 sudo add-apt-repository ppa:allegro/5.2
+```
 
 Then, install Allegro:
+```
 
+```bash
 sudo apt-get install liballegro*5.2 liballegro*5-dev
 ```
 
